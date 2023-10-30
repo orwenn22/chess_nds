@@ -1,0 +1,4 @@
+TODO :
+Utiliser grit pour convertir les sprites (dossier "graphics" ?)
+Utiliser nitroFS ?
+Clean le code (passer bg2 en 8bpp pour ne pas utiliser la vram bank b)
